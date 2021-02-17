@@ -3,7 +3,7 @@
 Developing a form sign-in
 
 <h1 align="center">
-    <img alt="stussy" title="Stussy" src="./assets/images/stussy.png" width="30%" />
+    <img alt="stussy" title="Stussy" src="./assets/images/stussy-logo.png" width="30%" />
 </h1>
 
 <p align="center">
